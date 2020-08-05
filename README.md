@@ -52,16 +52,16 @@ end;
 
 
 
-
-
+<br>
+<br>
 
 thanks
 
 moshix
-August 2020
-------------
-
-
+<p>August 2020</P>
+<br>
+<br>
+<br><br>
 
 Backus-Naur Form of XPL
 -----------------------
