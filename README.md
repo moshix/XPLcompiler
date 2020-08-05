@@ -2,19 +2,19 @@
 
 A Compiler for the IBM XPL language
 ===================================
-
+<br>
 This is a compiler for the IBM XPL language (see here: https://en.wikipedia.org/wiki/XPL). For a while IBM made a compiler available for this system programming language and then they stopped. 
-
+<br>
 This compiler compiles the IBM XPL syntax into S/390 code. This compiler is written in IBM PL/I which is an industry semi-standard. It has compiled on my z/OS 2.1 system with the IBM Enterprise PL/I compiler 4.3.1 just fine. 
-
+<br>
 It is supplied as is, without any gurantee. 
-
+<br>
 
 More Information about the XPL language (incl syntax and sample code)
 ---------------------------------------------------------------------
 
 http://teampli.net/XPL/
-Sample Code:
+<br>Sample Code:
 
 <pre>
 *  This program reads n cards (n= 100), sorts them in
