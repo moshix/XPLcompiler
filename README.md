@@ -1,6 +1,6 @@
 
 
-A Compiler for the iBM XPL language
+A Compiler for the IBM XPL language
 ===================================
 
 This is a compiler for the IBM XPL language (see here: https://en.wikipedia.org/wiki/XPL). For a while IBM made a compiler available for this system programming language and then they stopped. 
