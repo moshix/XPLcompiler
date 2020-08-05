@@ -15,6 +15,8 @@ More Information about the XPL language (incl syntax and sample code)
 
 http://teampli.net/XPL/
 Sample Code:
+
+<pre>
 *  This program reads n cards (n= 100), sorts them in
     alphabetical (collating) order and prints them. */
 
@@ -46,7 +48,7 @@ do i = 1 to n;
     output = cards(i);
 end;
 
-
+</pre>
 
 
 
@@ -63,7 +65,7 @@ August 2020
 
 Backus-Naur Form of XPL
 -----------------------
-
+<pre>
 BNF Definition of the XPL Language
 
 
@@ -325,5 +327,5 @@ U	Terminate tracing.
 Z	Allow program to execute in spite of errors.	off
 |	Set margin. Input scan will be terminated at column containing the |	 
 
-
+</pre>
 
